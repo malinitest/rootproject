@@ -1,17 +1,4 @@
 #This is my source code
-B
-B
-B
-B
-A
-A
-A
-A
-D
-D
-C
-C
-C
 
 
 include_once "scpt/utilities.inc";
