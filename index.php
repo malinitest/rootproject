@@ -1,9 +1,19 @@
 #This is my source code
-#Hi is this my new line
-<?php
-ini_set('error_reporting', 'E_ALL & ~E_NOTICE');
-ini_set('display_errors', '1');
-$gProgramCode = "INDEX";
+B
+B
+B
+B
+A
+A
+A
+A
+D
+D
+C
+C
+C
+
+
 include_once "scpt/utilities.inc";
 
 if ($gDealerId > 0 && $gDealerId != $gDefaultDealerId) {
@@ -554,7 +564,12 @@ switch ($urlAction) {
                 type: "POST",
 				data: {advertising_id: valimp[1]},
                 dataType: "json"
-                 });                  
+                 t
+
+
+
+
+});                  
                 });
                 
                
